@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\pacman.phuong\pacman.phuong\bin\Debug\pacman.phuong.exe.config
+C:\Users\Administrator\source\repos\pacman.phuong\pacman.phuong\bin\Debug\pacman.phuong.exe
+C:\Users\Administrator\source\repos\pacman.phuong\pacman.phuong\bin\Debug\pacman.phuong.pdb
+C:\Users\Administrator\source\repos\pacman.phuong\pacman.phuong\obj\Debug\pacman.phuong.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\pacman.phuong\pacman.phuong\obj\Debug\pacman.phuong.Form1.resources
+C:\Users\Administrator\source\repos\pacman.phuong\pacman.phuong\obj\Debug\pacman.phuong.Properties.Resources.resources
+C:\Users\Administrator\source\repos\pacman.phuong\pacman.phuong\obj\Debug\pacman.phuong.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\pacman.phuong\pacman.phuong\obj\Debug\pacman.phuong.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\pacman.phuong\pacman.phuong\obj\Debug\pacman.phuong.exe
+C:\Users\Administrator\source\repos\pacman.phuong\pacman.phuong\obj\Debug\pacman.phuong.pdb
